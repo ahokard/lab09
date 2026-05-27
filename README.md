@@ -1,4 +1,4 @@
-# Laboratory work IV
+## Laboratory work IV
 
 В данной работе используется система непрерывной интеграции GitHub Actions.
 

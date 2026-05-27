@@ -33,6 +33,7 @@
 ```bash
 git clone https://github.com/ahokard/lab09.git
 cd lab09
+```
 
 ## CI Status
 
